@@ -1,0 +1,15 @@
+[
+  {
+    "email": "admin@taller.com",
+    "nombre": "Administrador Principal",
+    "password": "123",
+    "rol": "ADMIN"
+  },
+  {
+    "email": "alfonso@gmail.com",
+    "nombre": "Alfonso",
+    "password": "1234",
+    "rol": "USER"
+  }
+
+]

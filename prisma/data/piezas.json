@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "Filtro de Aceite",
+    "referencia": "REF-001",
+    "stock": 15,
+    "precio": 12.5,
+    "avisoStock": 5
+  },
+  {
+    "nombre": "Aceite 5W30 5L",
+    "referencia": "OIL-5W30",
+    "stock": 8,
+    "precio": 45.0,
+    "avisoStock": 3
+  }
+]

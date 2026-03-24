@@ -1,0 +1,20 @@
+[
+  {
+    "marca": "Seat",
+    "modelo": "Ibiza",
+    "reparacion": "Cambio de aceite",
+    "duracionMin": 45
+  },
+  {
+    "marca": "Seat",
+    "modelo": "Ibiza",
+    "reparacion": "Cambio de aceite",
+    "duracionMin": 52
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Golf",
+    "reparacion": "Frenos",
+    "duracionMin": 120
+  }
+]
