@@ -64,6 +64,7 @@ DEVUELVE:
 ## 🛠 Tipo de reparación
 ## 📝 Qué se va a hacer
 ## 📅 Recomendación de fecha
+## Precio aproximado de la reparación
 `;
 
   const resultado = await modeloIA.generateContent(prompt);
